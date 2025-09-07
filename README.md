@@ -6,4 +6,4 @@
 
 [Resenha No Silver Bullet](Resenhas/Resenha-No-Silver-Bullet.pdf)
 
-[Resenha Criteria for Modularization](Criteria-for-Modularization-resenha.pdf)
+[Resenha Criteria for Modularization](Resenhas/Criteria-for-Modularization-resenha.pdf)
