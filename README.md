@@ -8,4 +8,4 @@
 
 [Resenha Criteria for Modularization](Resenhas/Criteria-for-Modularization-resenha.pdf)
 
-[Resenha Software Architecture: A Roadmap](Software-Architecture-A-Roadmap.pdf)
+[Resenha Software Architecture: A Roadmap](Resenhas/Software-Architecture-A-Roadmap.pdf)
