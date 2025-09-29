@@ -9,3 +9,5 @@
 [Resenha Criteria for Modularization](Resenhas/Criteria-for-Modularization-resenha.pdf)
 
 [Resenha Software Architecture: A Roadmap](Resenhas/Software-Architecture-A-Roadmap.pdf)
+
+[Strategic Design and Domain-Driven Design](Resenhas/Strategic-Design-and-Domain-Driven-Design.pdf)
