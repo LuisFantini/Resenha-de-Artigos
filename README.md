@@ -11,3 +11,5 @@
 [Resenha Software Architecture: A Roadmap](Resenhas/Software-Architecture-A-Roadmap.pdf)
 
 [Strategic Design and Domain-Driven Design](Resenhas/Strategic-Design-and-Domain-Driven-Design.pdf)
+
+[Managing Technical Debt](Resenhas/Document5.pdf)
