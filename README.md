@@ -13,3 +13,5 @@
 [Strategic Design and Domain-Driven Design](Resenhas/Strategic-Design-and-Domain-Driven-Design.pdf)
 
 [Managing Technical Debt](Resenhas/Document5.pdf)
+
+[Hexagonal Architecture: The Original 2005 Article](Resenhas/Document6.pdf)
